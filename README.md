@@ -7,7 +7,7 @@ Aplikasi **NoteKeeper** adalah aplikasi catatan sederhana yang dibangun dengan *
 </p>
 
 ---
-
+LINK EXPO https://snack.expo.dev/@idhosembiring3107/persistent-app
 ## 📋 Daftar Isi
 - [✨ Fitur](#-fitur)
 - [📸 Screenshot](#-screenshot)
